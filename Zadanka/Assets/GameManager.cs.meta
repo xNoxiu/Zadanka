@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dcca55e9842d1ea4a9280bc66f10c95a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCardList: {fileID: 11400000, guid: 13c5c3ff48753d643ac7a2478715d9ed, type: 2}
+  - enemyCardList: {fileID: 11400000, guid: ed94bc8dfe7e1074f91db037373782af, type: 2}
+  - playerHandPos: {fileID: 3763685640848563475, guid: 78634c4be289e274ebcfa275cd867460, type: 3}
+  - enemyHandPos: {fileID: 5564286446667733937, guid: 136a909337edd4f439bbf315a0ef127e, type: 3}
+  - playerDeckPos: {fileID: 5752999889056805183, guid: 2ea749615fbdee541afc9bbc8c373ab8, type: 3}
+  - enemyDeckPos: {fileID: 6755960155736451542, guid: cca146db37b2ff64d845e4fab6bf4765, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
